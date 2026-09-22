@@ -2,4 +2,3 @@ book issueing process
 log in to our website
 click on book you want to issue
 agree to terms and conditions
-make payment
